@@ -1,0 +1,24 @@
+<aiml>
+
+<category>
+<pattern>EXAM DATE</pattern>
+<template>
+Please check the examination section in ERP for exam schedule.
+</template>
+</category>
+
+<category>
+<pattern>RESULT</pattern>
+<template>
+Results will be available in the student result portal.
+</template>
+</category>
+
+<category>
+<pattern>SHOW RESULT</pattern>
+<template>
+Results will be available
+</template>
+</category>
+
+</aiml>

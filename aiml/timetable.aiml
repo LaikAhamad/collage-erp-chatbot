@@ -1,0 +1,17 @@
+<aiml>
+
+<category>
+<pattern>CLASS TIMETABLE</pattern>
+<template>
+Your class timetable is available in the student dashboard.
+</template>
+</category>
+
+<category>
+<pattern>TODAY CLASS</pattern>
+<template>
+Please check today's schedule in ERP timetable section.
+</template>
+</category>
+
+</aiml>

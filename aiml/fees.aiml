@@ -1,0 +1,17 @@
+<aiml>
+
+<category>
+<pattern>CHECK FEES</pattern>
+<template>
+You can check your fee status in the Finance section of ERP.
+</template>
+</category>
+
+<category>
+<pattern>PAY FEES</pattern>
+<template>
+Online fee payment is available through the ERP portal.
+</template>
+</category>
+
+</aiml>

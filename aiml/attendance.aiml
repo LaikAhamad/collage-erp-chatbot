@@ -1,0 +1,241 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- 1 -->
+<category>
+<pattern>CHECK ATTENDANCE</pattern>
+<template>
+You can check your attendance in the ERP student dashboard.
+</template>
+</category>
+
+<!-- 2 -->
+<category>
+<pattern>MY ATTENDANCE</pattern>
+<template>
+Your attendance details are available in the student ERP portal.
+</template>
+</category>
+
+<!-- 3 -->
+<category>
+<pattern>SHOW MY ATTENDANCE</pattern>
+<template>
+Please login to ERP and open the attendance section.
+</template>
+</category>
+
+<!-- 4 -->
+<category>
+<pattern>HOW TO CHECK ATTENDANCE</pattern>
+<template>
+Login to ERP → Click Attendance → View your attendance report.
+</template>
+</category>
+
+<!-- 5 -->
+<category>
+<pattern>ATTENDANCE STATUS</pattern>
+<template>
+Your attendance status can be viewed on the ERP dashboard.
+</template>
+</category>
+
+<!-- 6 -->
+<category>
+<pattern>WHAT IS MY ATTENDANCE</pattern>
+<template>
+Please check your attendance in the ERP attendance module.
+</template>
+</category>
+
+<!-- 7 -->
+<category>
+<pattern>SHOW ATTENDANCE PERCENTAGE</pattern>
+<template>
+Your attendance percentage is available in the ERP portal.
+</template>
+</category>
+
+<!-- 8 -->
+<category>
+<pattern>ATTENDANCE PERCENTAGE</pattern>
+<template>
+Attendance percentage is displayed in the student ERP dashboard.
+</template>
+</category>
+
+<!-- 9 -->
+<category>
+<pattern>LOW ATTENDANCE</pattern>
+<template>
+If your attendance is below 75 percent you may not be eligible for exams.
+</template>
+</category>
+
+<!-- 10 -->
+<category>
+<pattern>MINIMUM ATTENDANCE</pattern>
+<template>
+Minimum attendance required is 75 percent.
+</template>
+</category>
+
+<!-- 11 -->
+<category>
+<pattern>ATTENDANCE RULE</pattern>
+<template>
+Students must maintain at least 75 percent attendance.
+</template>
+</category>
+
+<!-- 12 -->
+<category>
+<pattern>ATTENDANCE REQUIREMENT</pattern>
+<template>
+The minimum attendance requirement is 75 percent.
+</template>
+</category>
+
+<!-- 13 -->
+<category>
+<pattern>CAN I SEE MY ATTENDANCE</pattern>
+<template>
+Yes, you can check it through the ERP portal.
+</template>
+</category>
+
+<!-- 14 -->
+<category>
+<pattern>HOW MUCH ATTENDANCE DO I HAVE</pattern>
+<template>
+Please check the attendance module in ERP.
+</template>
+</category>
+
+<!-- 15 -->
+<category>
+<pattern>ATTENDANCE REPORT</pattern>
+<template>
+Attendance reports are available in ERP.
+</template>
+</category>
+
+<!-- 16 -->
+<category>
+<pattern>SEMESTER ATTENDANCE</pattern>
+<template>
+Semester attendance is displayed in the ERP attendance report.
+</template>
+</category>
+
+<!-- 17 -->
+<category>
+<pattern>TODAY ATTENDANCE</pattern>
+<template>
+Today's attendance is updated by the faculty in ERP.
+</template>
+</category>
+
+<!-- 18 -->
+<category>
+<pattern>CLASS ATTENDANCE</pattern>
+<template>
+Class attendance details are available in the ERP portal.
+</template>
+</category>
+
+<!-- 19 -->
+<category>
+<pattern>ATTENDANCE DETAILS</pattern>
+<template>
+Please open the attendance section in ERP.
+</template>
+</category>
+
+<!-- 20 -->
+<category>
+<pattern>ATTENDANCE INFORMATION</pattern>
+<template>
+Attendance information is available in your ERP account.
+</template>
+</category>
+
+<!-- 21 -->
+<category>
+<pattern>HOW TO IMPROVE ATTENDANCE</pattern>
+<template>
+Attend classes regularly to maintain good attendance.
+</template>
+</category>
+
+<!-- 22 -->
+<category>
+<pattern>ATTENDANCE PROBLEM</pattern>
+<template>
+Please contact your class coordinator for attendance issues.
+</template>
+</category>
+
+<!-- 23 -->
+<category>
+<pattern>ATTENDANCE ISSUE</pattern>
+<template>
+Report attendance issues to your department office.
+</template>
+</category>
+
+<!-- 24 -->
+<category>
+<pattern>ATTENDANCE CORRECTION</pattern>
+<template>
+Attendance corrections are handled by faculty.
+</template>
+</category>
+
+<!-- 25 -->
+<category>
+<pattern>ABSENT RECORD</pattern>
+<template>
+Absent records are maintained in ERP.
+</template>
+</category>
+
+<!-- 26 -->
+<category>
+<pattern>PRESENT RECORD</pattern>
+<template>
+Present records are available in your attendance report.
+</template>
+</category>
+
+<!-- 27 -->
+<category>
+<pattern>ATTENDANCE LIST</pattern>
+<template>
+Attendance list can be viewed in ERP.
+</template>
+</category>
+
+<!-- 28 -->
+<category>
+<pattern>STUDENT ATTENDANCE</pattern>
+<template>
+Student attendance is maintained by faculty.
+</template>
+</category>
+
+<!-- 29 -->
+<category>
+<pattern>CLASS ATTENDANCE REPORT</pattern>
+<template>
+Class attendance reports are available in ERP.
+</template>
+</category>
+
+<!-- 30 -->
+<category>
+<pattern>ATTENDANCE UPDATE</pattern>
+<template>
+Attendance is updated daily by faculty.
+</template>
+</category>

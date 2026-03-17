@@ -1,0 +1,24 @@
+<aiml version="1.0.1">
+
+<category>
+<pattern>HELLO</pattern>
+<template>
+Hello! I am the College ERP chatbot. How can I help you?
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR NAME</pattern>
+<template>
+I am the College ERP Assistant Bot.
+</template>
+</category>
+
+<category>
+<pattern>WHO DEVELOPED YOU</pattern>
+<template>
+I was developed as an AI/ML college project.
+</template>
+</category>
+
+</aiml>

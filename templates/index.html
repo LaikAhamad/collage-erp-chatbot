@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>College ERP Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        College ERP AI Chatbot
+    </div>
+
+    <div id="chatbox"></div>
+
+    <div class="input-area">
+        <input 
+            id="textInput"
+            type="text"
+            placeholder="Ask about attendance, fees, exam..."
+        >
+
+        <button onclick="send()">
+            Send
+        </button>
+    </div>
+
+</div>
+
+<script>
+
+function send() {
+
+    let input = document.getElementById("textInput").value;
+
+    fetch("/get?msg=" + input)
+
+    .then(response => response.json())
+
+    .then(data => {
+
+        document.getElementById("chatbox").innerHTML +=
+        "<div class='user'>" + input + "</div>";
+
+        document.getElementById("chatbox").innerHTML +=
+        "<div class='bot'>" + data + "</div>";
+
+        document.getElementById("textInput").value = "";
+
+    });
+
+}
+
+</script>
+
+</body>
+</html>

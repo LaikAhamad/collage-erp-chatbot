@@ -1,0 +1,12 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+    <learn>aiml/basic.aiml</learn>
+    <learn>aiml/attendance.aiml</learn>
+    <learn>aiml/fees.aiml</learn>
+    <learn>aiml/exam.aiml</learn>
+    <learn>aiml/timetable.aiml</learn>
+</template>
+</category>
+</aiml>
